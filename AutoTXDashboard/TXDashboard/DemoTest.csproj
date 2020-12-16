@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+    <PackageReference Include="ExtentReports" Version="4.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="1.3.2" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.3.2" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="87.0.4280.8800" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TXDashboardPageObject\DemoPageObject.csproj" />
+  </ItemGroup>
+
+</Project>

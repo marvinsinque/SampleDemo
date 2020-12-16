@@ -1,0 +1,14 @@
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\DemoPageObject.deps.json
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\DemoPageObject.runtimeconfig.json
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\DemoPageObject.runtimeconfig.dev.json
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\DemoPageObject.dll
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\bin\Debug\netcoreapp2.1\DemoPageObject.pdb
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\obj\Debug\netcoreapp2.1\DemoPageObject.AssemblyInfoInputs.cache
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\obj\Debug\netcoreapp2.1\DemoPageObject.AssemblyInfo.cs
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\obj\Debug\netcoreapp2.1\DemoPageObject.csproj.CoreCompileInputs.cache
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\obj\Debug\netcoreapp2.1\DemoPageObject.dll
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\obj\Debug\netcoreapp2.1\DemoPageObject.pdb
+C:\Users\MarvinS\Downloads\AutoTXDashboard\AutoTXDashboard\TXDashboardPageObject\obj\Debug\netcoreapp2.1\DemoPageObject.genruntimeconfig.cache
